@@ -35,3 +35,18 @@ O arquivo `.gitignore` já está configurado para impedir o vazamento acidental 
 1. Clone o repositório:
    ```bash
    git clone https://github.com/DeathWingg/filtro-vagas-python.git
+2. Instale as dependências:
+   pip install -r requirements.txt
+3. Execute o Script:
+   python main.py
+
+📁 Estrutura do projeto
+filtro-vagas-python/
+├── main.py                 # Lógica principal do script
+├── config.json             # Configurações de filtros e limiares
+├── curriculo_base.json     # Modelo de currículo (dados fictícios)
+├── vagas.csv               # Modelo de planilha de vagas
+├── requirements.txt        # Dependências do projeto
+└── output/                 # Pasta gerada automaticamente com os resultados
+   
+Desenvolvido por Wallysson Costa.
