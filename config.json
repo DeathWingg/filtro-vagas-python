@@ -1,0 +1,16 @@
+{
+  "limiar": 30,
+  "usar_tfidf": true,
+  "peso_keywords": 0.7,
+  "peso_tfidf": 0.3,
+  "skills_obrigatorias": [],
+  "localizacoes_aceitas": [
+    "são luís",
+    "sao luis",
+    "são luiz",
+    "maranhão",
+    "maranhao"
+  ],
+  "rejeitar_pj": true,
+  "rejeitar_remoto": false
+}
