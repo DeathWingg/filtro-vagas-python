@@ -54,3 +54,6 @@ filtro-vagas-python/
 ├── requirements.txt
 └── output/
     └── curriculos/
+```
+---
+*Desenvolvido por [Wallysson Costa](https://github.com/DeathWingg)*
